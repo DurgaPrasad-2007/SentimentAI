@@ -12,9 +12,6 @@ Any changes you make to your deployed app will be automatically pushed to this r
 
 ## Deployment
 
-Your project is live at:
-
-**[https://vercel.com/polojudurgaprasad-gmailcoms-projects/v0-sentiment-analysis-project](https://vercel.com/polojudurgaprasad-gmailcoms-projects/v0-sentiment-analysis-project)**
 
 ## Build your app
 
